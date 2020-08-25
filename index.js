@@ -24,6 +24,6 @@ else {
   "Good Afternoon"
 }
 }
-const displayMessage = () => {
-  
+const displayMessage = (msg) => {
+   document.getElementById("greeting").innerText = msg;
 }
