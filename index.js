@@ -13,7 +13,7 @@ function handleClick(e) {
 /* Write your implementation of displayMessage() */
 
 const greet = (timeString) => {
-  if
+  
 }
 const displayMessage = () => {
   
