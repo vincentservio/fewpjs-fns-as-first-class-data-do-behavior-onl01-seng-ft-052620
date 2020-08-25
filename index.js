@@ -17,11 +17,9 @@ const greet = (timeString) => {
 if (hour > "17"){
   return "Good Evening"}
 if (hour < "12"){
-  return"Good Morning"
-}
+  return"Good Morning"}
 else {
-  return "Good Afternoon"
-}
+  return "Good Afternoon"}
 }
 const displayMessage = (msg) => {
    document.getElementById("greeting").innerText = msg;
