@@ -13,5 +13,9 @@ function handleClick(e) {
 /* Write your implementation of displayMessage() */
 
 const greet = () => {
+  if timeString > 1200
+  
+}
+const displayMessage = () => {
   
 }
