@@ -14,7 +14,7 @@ function handleClick(e) {
 
 const greet = () => {
   if timeString > 1200
-  
+  return "Good Morning"
 }
 const displayMessage = () => {
   
