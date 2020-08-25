@@ -13,8 +13,7 @@ function handleClick(e) {
 /* Write your implementation of displayMessage() */
 
 const greet = (timeString) => {
-   timestring.split(":")[0]
-    
+  if
 }
 const displayMessage = () => {
   
