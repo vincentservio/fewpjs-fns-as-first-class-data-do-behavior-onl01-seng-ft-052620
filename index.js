@@ -12,8 +12,8 @@ function handleClick(e) {
 /* Write your implementation of greet() */
 /* Write your implementation of displayMessage() */
 
-const greet = (timestring) => {
-  if timeString > 1200
+const greet = (timeString) => {
+  timestring.split(":") 
   return "Good Morning"
 }
 const displayMessage = () => {
