@@ -12,7 +12,7 @@ function handleClick(e) {
 /* Write your implementation of greet() */
 /* Write your implementation of displayMessage() */
 
-const greet = () => {
+const greet = (timestring) => {
   if timeString > 1200
   return "Good Morning"
 }
